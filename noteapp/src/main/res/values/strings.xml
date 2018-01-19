@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Notebook4</string>
+
+    <string-array name="community">
+        <item>北京理工大学</item>
+        <item>王者农药</item>
+
+    </string-array>
+
+    <string-array name="schools">
+        <item>北京理工大学</item>
+        <item>北京航空航天大学</item>
+        <item>清华大学</item>
+        <item>北京大学</item>
+        <item>中国人民大学</item>
+        <item>北京交通大学</item>
+    </string-array>
+
+    <string-array name="areas">
+        <item>网球</item>
+        <item>篮球</item>
+        <item>王者农药</item>
+        <item>狼人杀</item>
+        <item>骑行</item>
+        <item>足球</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>北京理工大学17-18学年校历</item>
+        <item>北京理工大学18-19学年校历</item>
+        <item>北京理工大学19-20学年校历</item>
+        <item>北京理工大学20-21学年校历</item>
+        <item>北京理工大学21-22学年校历</item>
+        <item>北京理工大学22-23学年校历</item>
+        <item>北京理工大学23-24学年校历</item>
+        <item>北京理工大学24-25学年校历</item>
+    </string-array>
+
+    <string-array name="years">
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="days">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string name="title_activity_main_calender">MainCalenderActivity</string>
+</resources>
